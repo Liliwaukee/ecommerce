@@ -1,7 +1,7 @@
 # AMATISTA ECOMMERCE
 ------
 
-![website](assets/images/imac.png)
+![imac](https://user-images.githubusercontent.com/32861306/38595798-5a1e7e10-3d13-11e8-87d9-696e4861fc11.png)
 
 Esta aplicación es una ecommerce dedicada a la venta de joyeria.
 Al ser una api con un gran número de productos, delimitamos nuestra solicitud sólo a joyería.
